@@ -20,7 +20,7 @@ Collect data from multiple sources
 - Financial Intelligence (FININT)
 
 #### Processing
-Convert the gathered raw data into an understandable\readable\usable format (Remove false positive and structure the data)
+Convert the gathered raw data into an readable\usable format (Remove false positive and structure the data)
 
 #### Analysis & Production
 Evaluate the structured data and create actionable information based on the requirements specified in the Planning step. 
