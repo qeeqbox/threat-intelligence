@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/threat-intelligence/main/threat-intelligence.png"></p>
 
 ## Threat Intelligence
-Threat intelligence or cyber threat intelligence is the process of identifying and analyzing gathered information about past, current, and future cyber threats (Collecting information about a potential threat, then analyzing that information to learn more about the negative events)
+Threat intelligence or Cyber Threat Intelligence is the process of identifying and analyzing gathered information about past, current, and future cyber threats (Collecting information about a potential threat, then analyzing that information to learn more about the negative events)
 
 ## Steps
 #### Planning & Direction
