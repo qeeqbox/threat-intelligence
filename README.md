@@ -34,3 +34,4 @@ fe47147d-35bb-4d54-b2e2-0299050a6ceb
 ## References
 - https://en.wikipedia.org/wiki/Threat_intelligence
 - https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines
+- https://csrc.nist.gov/glossary/term/threat_intelligence
