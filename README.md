@@ -23,7 +23,7 @@ Collect data from multiple sources
 Convert the gathered raw data into an readable\usable format (Remove false positive and structure the data)
 
 #### Analysis & Production
-Evaluate the structured data and create actionable information based on the requirements specified in the Planning step. 
+Evaluate the structured data and create actionable information based on the requirements specified in the Planning step
 
 #### Dissemination & Feedback
 Share the finished intelligence output with the appropriate stakeholders
